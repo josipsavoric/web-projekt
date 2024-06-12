@@ -1,0 +1,4 @@
+stranica se nece pokrenuti jer nemate bazu na svojem racunalu
+stranica folder su sve skripte
+references folder su slike koje sam dobio za rekreirati
+video.mp4 je video kako prolazim kroz stranicu
